@@ -7,3 +7,4 @@ occlum/occlum:latest-ubuntu20.04
 --platform=linux/arm64 xiaoyaliu/alist
 secretflow/secretflow-ubuntu:latest
 federatedai/standalone_fate
+federatedai/standalone_fate:2.2.0
