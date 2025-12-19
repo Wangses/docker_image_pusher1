@@ -9,3 +9,4 @@ secretflow/secretflow-ubuntu:latest
 federatedai/standalone_fate
 federatedai/standalone_fate:2.2.0
 federatedai/standalone_fate:1.8.0
+python:3.11-slim
